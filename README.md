@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello World
+>这是一个很好的仓库
 
-<!--
-**robertdowney66/robertdowney66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+可以给你以下优势:
 
-Here are some ideas to get you started:
++ [ ] 可以给你一个好处
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ [x] 可以谄媚你
+
+本人具有以下优势
+
+- 和蔼可亲
+
+- 待人友善
+
+- 斗志昂扬[^昂扬]
+
+[^昂扬]:形容我是一个很那个的人
+
+可以于GitHub寻找我[GitHub](https://github.com "一个网站")

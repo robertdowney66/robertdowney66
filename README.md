@@ -1,20 +1,3 @@
-# Hello World
->这是一个很好的仓库
-
-可以给你以下优势:
-
-+ [ ] 可以给你一个好处
-
-+ [x] 可以谄媚你
-
-本人具有以下优势
-
-- 和蔼可亲
-
-- 待人友善
-
-- 斗志昂扬[^昂扬]
-
-[^昂扬]:形容我是一个很那个的人
-
-可以于GitHub寻找我[GitHub](https://github.com "一个网站")
+Chengyu Liu
+Affiliation: Fuzhou University
+Email: 102301429@fzu.edu.cn
